@@ -4,7 +4,7 @@ layout: home
 ---
 
 <a href="https://xavierdataresearch.blogspot.com"> target=_blank
-    Xavier Data Research Blogspot
+    [Xavier Data Research Blogspot]("https://xavierdataresearch.blogspot.com")
     </a>
     <a href="mailto:xavierdataresearch@yahoo.com"> target=_blank title="This is how you can reach me"
     email me
