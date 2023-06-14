@@ -3,9 +3,10 @@ title: Xavier Data Research
 layout: home
 ---
 
-<!DOCTYPE html>
-
-Xavier Data Research Blogspot [https://xavierdataresearch.blogspot.com/](url)# target=_blank<a href="https://xavierdataresearch.blogspot.com"> </a>
+  
+Xavier Data Research Blogspot <a href="https://xavierdataresearch.blogspot.com"> target=_blank
+    Xavier Data Research Blogspot
+    </a>
 
 Xavier Data Research Substack [https://xavierdataresearch.substack.com/](url)# target=_blank<a href="https://xavierdataresearch.substack.com"> </a>
 
