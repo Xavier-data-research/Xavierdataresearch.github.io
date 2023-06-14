@@ -3,10 +3,11 @@ title: Xavier Data Research
 layout: home
 ---
 
+<!DOCTYPE html>
 
-Xavier Data Research Blogspot [https://xavierdataresearch.blogspot.com/](url)#target=_blank<a href="https://xavierdataresearch.blogspot.com"> </a>
+Xavier Data Research Blogspot [https://xavierdataresearch.blogspot.com/](url)# target=_blank<a href="https://xavierdataresearch.blogspot.com"> </a>
 
-Xavier Data Research Substack [https://xavierdataresearch.substack.com/](url)#target=_blank<a href="https://xavierdataresearch.substack.com"> </a>
+Xavier Data Research Substack [https://xavierdataresearch.substack.com/](url)# target=_blank<a href="https://xavierdataresearch.substack.com"> </a>
 
 Xavier Data Research Medium [https://medium.com/@xaviersingleton22_3667/](url)#target=_blank<a href="https://medium.com/@xaviersingleton22_3667"> </a>
 
