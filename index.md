@@ -3,7 +3,7 @@ title: Xavier Data Research
 layout: home
 ---
 
-    <html>
+    
 <head>
     <title>Xavier Data Research</title>
 </head>
@@ -42,4 +42,4 @@ layout: home
 
 
 </body>
-</html>
+
