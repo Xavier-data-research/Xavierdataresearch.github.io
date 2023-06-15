@@ -8,7 +8,6 @@ layout: home
     Xavier Data Research Blogspot
     </a>
 
-Xavier Data Research Substack 
  <a href="https://xavierdataresearch.substack.com"> 
     Xavier Data Research Substack
     </a>
