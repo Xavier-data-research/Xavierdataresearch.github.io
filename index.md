@@ -4,7 +4,7 @@ layout: home
 ---
 
   
-Xavier Data Research Blogspot <a href="https://xavierdataresearch.blogspot.com"> target=_blank
+Xavier Data Research Blogspot <a href="https://xavierdataresearch.blogspot.com">
     Xavier Data Research Blogspot
     </a>
 
