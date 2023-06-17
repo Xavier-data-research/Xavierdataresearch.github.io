@@ -7,8 +7,11 @@ url: https://xavierdataresearch.com
 aux_links:
   #Template Repository: https://github.com/just-the-docs/just-the-docs-template
   
-  plugins:
+  #plugins:
   - jekyll-feed
 title: Xavier Data Research Blog
 description: Welcome to my Research
 author: Xavier Singleton
+
+<link rel="alternate" type="application/atom+xml" title="{{ Xavier Data Research }}" href="/feed.xml">
+<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
