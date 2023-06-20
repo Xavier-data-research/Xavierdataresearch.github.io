@@ -2,11 +2,6 @@
 title: Xavier Data Research
 layout: home
 ---
-
-<!-- SCM Music Player https://www.scmplayer.net -->
-<script type="text/javascript" src="https://www.scmplayer.net/script.js" 
-data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle':false,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'Bjork - Its in our hands','url':'https://youtu.be/wv_4JnHvOTc'},{'title':'Aphex Twin - On ','url':'https://www.youtube.com/watch?v=38RMZ9H7Cg8'},{'title':'as long as ropes unravel fake rolex will travel','url':'https://www.youtube.com/watch?v=2FoVvS17nmg'},{'title':'Aphex Twin 4','url':'https://www.youtube.com/watch?v=7WAa3tY6cfo'},{'title':'oli xl - Go Oli Go!','url':'https://www.youtube.com/watch?v=Hj-Wq63iBZU'},{'title':'susumu yokota subconscious globe','url':'https://www.youtube.com/watch?v=4ze2tZx-9WE'}]}" ></script>
-<!-- SCM Music Player script end -->
   
 <a href="https://xavierdataresearch.blogspot.com">
     Xavier Data Research Blogspot
@@ -36,7 +31,10 @@ data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle
     email me
     </a>
     
-   
+    <!-- SCM Music Player https://www.scmplayer.net -->
+<script type="text/javascript" src="https://www.scmplayer.net/script.js" 
+data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle':false,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'Bjork - Its in our hands','url':'https://youtu.be/wv_4JnHvOTc'},{'title':'Aphex Twin - On ','url':'https://www.youtube.com/watch?v=38RMZ9H7Cg8'},{'title':'as long as ropes unravel fake rolex will travel','url':'https://www.youtube.com/watch?v=2FoVvS17nmg'},{'title':'Aphex Twin 4','url':'https://www.youtube.com/watch?v=7WAa3tY6cfo'},{'title':'oli xl - Go Oli Go!','url':'https://www.youtube.com/watch?v=Hj-Wq63iBZU'},{'title':'susumu yokota subconscious globe','url':'https://www.youtube.com/watch?v=4ze2tZx-9WE'}]}" ></script>
+    <!-- SCM Music Player script end -->
   
    
   <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html" version="2.0">
