@@ -62,28 +62,12 @@ layout: home
 </title>
 <link>https://medium.com/@xaviersingleton22_3667/ideas-are-free-5e5bcbfc2b47?source=rss-5a5b66d9ce3e------2</link>
 <guid isPermaLink="false">https://medium.com/p/5e5bcbfc2b47</guid>
-<category>
-<![CDATA[ humanity ]]>
-</category>
-<category>
-<![CDATA[ thinking ]]>
-</category>
-<category>
-<![CDATA[ world ]]>
-</category>
-<category>
-<![CDATA[ people ]]>
-</category>
-<category>
-<![CDATA[ philosophy ]]>
-</category>
-<dc:creator>
-<![CDATA[ Xavier Data Research ]]>
+
 </dc:creator>
 <pubDate>Fri, 16 Jun 2023 15:04:14 GMT</pubDate>
 <atom:updated>2023-06-16T15:04:14.226Z</atom:updated>
 <content:encoded>
-<![CDATA[ <h3>Ideas are free.</h3><figure><img alt="" src="https://cdn-images-1.medium.com/max/810/1*zT8yZApZsSpMsO_zJor8Mw.jpeg" /></figure><p>I have had a conversation with someone by the name of Gustavo who reminded me in our Instagram dm “You don’t control” So now I am in the present time at 23 feeling immortal while holding on to the mountain top of mixed emotions of how mankind grows, how we serve the individuals on the planet with information—the responsibility of the leader to change the world to shape context on all levels. In America, we fight for speech and the right to have ideas that go against the current trending thought process being programmed repeatedly cuts the leader at his or her kneecaps and forces the programmed thought process. Ideas have been split into social classes putting crabs in a bucket which divides the flow of water in the sea of focus. The people focused on shaping the world are constantly at war as they try to build the architecture of humanity bridges (warfare of ideas) and the crucifixion of free thinkers.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5e5bcbfc2b47" width="1" height="1" alt=""> ]]>
+<h3>Ideas are free.</h3><figure><img alt="" src="https://cdn-images-1.medium.com/max/810/1*zT8yZApZsSpMsO_zJor8Mw.jpeg" /></figure><p>I have had a conversation with someone by the name of Gustavo who reminded me in our Instagram dm “You don’t control” So now I am in the present time at 23 feeling immortal while holding on to the mountain top of mixed emotions of how mankind grows, how we serve the individuals on the planet with information—the responsibility of the leader to change the world to shape context on all levels. In America, we fight for speech and the right to have ideas that go against the current trending thought process being programmed repeatedly cuts the leader at his or her kneecaps and forces the programmed thought process. Ideas have been split into social classes putting crabs in a bucket which divides the flow of water in the sea of focus. The people focused on shaping the world are constantly at war as they try to build the architecture of humanity bridges (warfare of ideas) and the crucifixion of free thinkers.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5e5bcbfc2b47" width="1" height="1" alt=""> ]]>
 </content:encoded>
 </item>
 <item>
