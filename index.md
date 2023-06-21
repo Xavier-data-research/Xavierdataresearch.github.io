@@ -35,33 +35,9 @@ layout: home
   
    
   <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html" version="2.0">
-<script>window._wordtune_extension_installed = true;</script>
-<channel>
-<title>
-<![CDATA[ Stories by Xavier Data Research on Medium ]]>
-</title>
-<description>
-<![CDATA[ Stories by Xavier Data Research on Medium ]]>
-</description>
-<link>https://medium.com/@xaviersingleton22_3667?source=rss-5a5b66d9ce3e------2</link>
-<image>
-<url>https://cdn-images-1.medium.com/fit/c/150/150/1*tW4FYgPSxMgb5gZDq5dZyw@2x.jpeg</url>
-<title>Stories by Xavier Data Research on Medium</title>
-<link>https://medium.com/@xaviersingleton22_3667?source=rss-5a5b66d9ce3e------2</link>
-</image>
-<generator>Medium</generator>
-<lastBuildDate>Sat, 17 Jun 2023 15:08:49 GMT</lastBuildDate>
-<atom:link href="https://medium.com/@xaviersingleton22_3667/feed" rel="self" type="application/rss+xml"/>
-<webMaster>
-<![CDATA[ yourfriends@medium.com ]]>
-</webMaster>
-<atom:link href="http://medium.superfeedr.com" rel="hub"/>
-<item>
-<title>
-<![CDATA[ Ideas are free. ]]>
-</title>
-<link>https://medium.com/@xaviersingleton22_3667/ideas-are-free-5e5bcbfc2b47?source=rss-5a5b66d9ce3e------2</link>
-<guid isPermaLink="false">https://medium.com/p/5e5bcbfc2b47</guid>
+<script>window._wordtune_extension_installed = true;</script> 
+
+
 
 </dc:creator>
 <pubDate>Fri, 16 Jun 2023 15:04:14 GMT</pubDate>
@@ -84,43 +60,14 @@ layout: home
 <content:encoded>
 <![CDATA[ <p>When I am of maturity to ask someone who I care for to spend 100 summers with me and to be my lover. If I am ever upset I must take her to an opera show if I am ever angry I take her to the sea so she remembers how far my love extends. For emotions, I can never express but see in my mind and feel in my bones.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5024161dc6f4" width="1" height="1" alt=""> ]]>
 </content:encoded>
-</item>
-<item>
-<title>
-<![CDATA[ Broke the mental block I had for the past 3 days: ]]>
-</title>
-<link>https://medium.com/@xaviersingleton22_3667/broke-the-mental-block-i-had-for-the-past-3-days-820dc275bc6e?source=rss-5a5b66d9ce3e------2</link>
-<guid isPermaLink="false">https://medium.com/p/820dc275bc6e</guid>
-<category>
-<![CDATA[ art ]]>
-</category>
-<category>
-<![CDATA[ visual-design ]]>
-</category>
-<category>
-<![CDATA[ artificial-intelligence ]]>
-</category>
-<category>
-<![CDATA[ design ]]>
-</category>
-<category>
-<![CDATA[ culture ]]>
-</category>
-<dc:creator>
-<![CDATA[ Xavier Data Research ]]>
-</dc:creator>
+
+<dc:creator> 
 <pubDate>Fri, 09 Jun 2023 16:35:43 GMT</pubDate>
 <atom:updated>2023-06-09T16:35:43.883Z</atom:updated>
 <content:encoded>
-<![CDATA[ <p>My discussion to myself was “trying” to incorporate visual literacy from my writings. I overlooked the complexity I was creating within that thought process.</p><p>The visual representation from the internal visions I had are no longer able to just be brought about in linear ways (traditional) because the story telling is on a topic that requires non-linear thinking because of the “weight” of the artificial intelligence subject matter.</p><p>In that process I found myself wanting to br Phil Jackson and Kobe Bryant which ultimately blocked my own message. Literally a Mutombo to the visions I was seeing</p><p>That’s a frustration, I had unwire the player in me to be the director of my internal orchestra. That Scorsese of those internal visions.</p><p>I move on ideas and how I feel to those ideas and will never allow life to make any excuse for why those ideas and feelings are not acted on.</p><p>This visual language that has fully been forced upon everyone rather they realize it or not has a fine tuned communication it difficult to find those innovations.</p><p>That forces one to want to birth creations from visions. Has to be done in ways that never were done and tested to be sure because the literacy of mankind is on the line because this technology we now use can drastically change the course of human life. So everything has to be high level.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=820dc275bc6e" width="1" height="1" alt=""> ]]>
+<h3>  Broke the mental block I had for the past 3 days </h3> <p>My discussion to myself was “trying” to incorporate visual literacy from my writings. I overlooked the complexity I was creating within that thought process.</p><p>The visual representation from the internal visions I had are no longer able to just be brought about in linear ways (traditional) because the story telling is on a topic that requires non-linear thinking because of the “weight” of the artificial intelligence subject matter.</p><p>In that process I found myself wanting to be Phil Jackson and Kobe Bryant which ultimately blocked my own message. Literally a Mutombo to the visions I was seeing</p><p>That’s a frustration, I had unwire the player in me to be the director of my internal orchestra. That Scorsese of those internal visions.</p><p>I move on ideas and how I feel to those ideas and will never allow life to make any excuse for why those ideas and feelings are not acted on.</p><p>This visual language that has fully been forced upon everyone rather they realize it or not has a fine tuned communication it difficult to find those innovations.</p><p>That forces one to want to birth creations from visions. Has to be done in ways that never were done and tested to be sure because the literacy of mankind is on the line because this technology we now use can drastically change the course of human life. So everything has to be high level.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=820dc275bc6e" width="1" height="1" alt=""> ]]>
 </content:encoded>
-</item>
-<item>
-<title>
-<![CDATA[ The Power of Generative Models ]]>
-</title>
-<link>https://medium.com/@xaviersingleton22_3667/the-power-of-generative-models-8fb66ca07612?source=rss-5a5b66d9ce3e------2</link>
-<guid isPermaLink="false">https://medium.com/p/8fb66ca07612</guid>
+
 
 <pubDate>Thu, 08 Jun 2023 14:57:13 GMT</pubDate>
 <atom:updated>2023-06-08T14:57:13.841Z</atom:updated>
