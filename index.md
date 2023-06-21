@@ -43,12 +43,12 @@ layout: home
 <atom:updated>2023-06-10T03:33:08.639Z</atom:updated>
 <content:encoded>
 <h1>Why doves cry</h1><h3>Sat, 10 Jun 2023</h3> <p>When I am of maturity to ask someone who I care for to spend 100 summers with me and to be my lover. If I am ever upset I must take her to an opera show if I am ever angry I take her to the sea so she remembers how far my love extends. For emotions, I can never express but see in my mind and feel in my bones.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5024161dc6f4" width="1" height="1" alt=""> ]]>
-</content:encoded>
+
 
 <atom:updated>2023-06-09T16:35:43.883Z</atom:updated>
 <content:encoded>
 <h1>Broke the mental block I had for the past 3 days</h1> <p>My discussion to myself was “trying” to incorporate visual literacy from my writings. I overlooked the complexity I was creating within that thought process.</p><p>The visual representation from the internal visions I had are no longer able to just be brought about in linear ways (traditional) because the storytelling is on a topic that requires non-linear thinking because of the “weight” of the artificial intelligence subject matter.</p><p>In that process I found myself wanting to be Phil Jackson and Kobe Bryant which ultimately blocked my own message. Literally a Mutombo to the visions I was seeing</p><p>That’s a frustration, I had unwire the player in me to be the director of my internal orchestra. That Scorsese of those internal visions.</p><p>I move on ideas and how I feel to those ideas and will never allow life to make any excuse for why those ideas and feelings are not acted on.</p><p>This visual language that has fully been forced upon everyone rather they realize it or not has a fine tuned communication it difficult to find those innovations.</p><p>That forces one to want to birth creations from visions. Has to be done in ways that never were done and tested to be sure because the literacy of mankind is on the line because this technology we now use can drastically change the course of human life. So everything has to be high level.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=820dc275bc6e" width="1" height="1" alt=""> ]]>
-</content:encoded>
+
 
 
 <atom:updated>2023-06-08T14:57:13.841Z</atom:updated>
@@ -59,34 +59,7 @@ layout: home
 
 
 <h1>monday-June-5</h1><h4>Notes, Thoughts, and Inner Dialogue.</h4><p>Notes, Thoughts, inner dialogue. I did not use grammarly or any text as I hope you can come out with your own take aways as I allow my thoughts to flow in the speaking of human nature and the future of technology. Linear thinking has no place in the AGI period.</p><p>Eugene Goostman, a chatbot created in ST. Petersburg, came close to passing the Turing test, in 2014 by using a personality trick. What is intelligence? understanding how the Turing test was built to map out intelligence amongst bots it makes me wonder about SATs, and other test that humans take. Preparing for systems that were placed at birth but like the Eugene Goostman, humans also manipulate to win. We use whatever tactics we can to get an advantage in any situation, but do we still know what intelligence is?</p><p>There is no clear definition of intelligence, that is one of the most important problems while most try to keep finding it. They create issues out of insecurities. Instead of using the resource of technology with assisting with the one brain that can think abstract and to understand its self-awarness. Reasoning and (Self-introspection) our subconsious distinguishes, the difference betweens animals and other things that our brands know the names for.</p><p>Like a baby when they begin to form a understanding for the world.</p><p>computers becoming humans or like humans, need to somehow be modeled internally with our way of thinking. We still need the understanding of what makes a human intelligent before moving forward with warp speed trying to develop something more powerful than the nuclear bomb. Programming intelligence requires the understanding of how decision making works.</p><p>Charles Babbage originally created the computer to operate on numbers following defined procedure (an Algorithm) Modern computers follow the same idea of controlled computations but now with more energy to cause harm. Now there may not be away of. stopping consumers of AI doing what they want without harming the process of learning properly about how Artifical Intelligence and Human Intelligence works together in the future of mankind.</p><p>As computers were created to their own algorithm frequency, as humans we have created our own societal codes that indeed hindered more of the percentage than we have helped. So the future of technology has a bit more weight this time around and it is very important things are fine tuned from warp speed and “racing” terms.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=360d01d57b7e" width="1" height="1" alt=""> ]]>
-</content:encoded>
-</item>
-<item>
-<title>
-<![CDATA[ Sunday-June-4–2023 ]]>
-</title>
-<link>https://medium.com/@xaviersingleton22_3667/sunday-june-4-2023-e571a02bd1ee?source=rss-5a5b66d9ce3e------2</link>
-<guid isPermaLink="false">https://medium.com/p/e571a02bd1ee</guid>
-<category>
-<![CDATA[ artificial-intelligence ]]>
-</category>
-<category>
-<![CDATA[ machine-learning ]]>
-</category>
-<category>
-<![CDATA[ research ]]>
-</category>
-<category>
-<![CDATA[ ai ]]>
-</category>
-<dc:creator>
-<![CDATA[ Xavier Data Research ]]>
-</dc:creator>
-<pubDate>Tue, 06 Jun 2023 17:36:14 GMT</pubDate>
-<atom:updated>2023-06-06T17:36:14.773Z</atom:updated>
-<content:encoded>
-<![CDATA[ <h4>Notes, Thoughts, and Inner Dialogue.</h4><p>The race mentality we have with AI is not that does not exist, but that the overall race is self-destruction.</p><p>Innovation happens over time to build these utopias, Industrial Revolution won’t equal the current time. We ultimately stopped building that infrastructure, especially in America innovation has not been powerful as it could have been but with the technology we have in today’s society it can happen with more of an impact on human life our industries don’t understand the correct direction of where we need to head vs where we are heading</p><figure><img alt="" src="https://cdn-images-1.medium.com/max/585/1*1qDt9lKJBQCzkoEx9o4G0Q@2x.jpeg" /></figure><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e571a02bd1ee" width="1" height="1" alt=""> ]]>
-</content:encoded>
-</item>
-</channel>
-</rss>
+
+
+<h1>Sunday-June-4–2023</h1><h4>Notes, Thoughts, and Inner Dialogue.</h4><p>The race mentality we have with AI is not that does not exist, but that the overall race is self-destruction.</p><p>Innovation happens over time to build these utopias, Industrial Revolution won’t equal the current time. We ultimately stopped building that infrastructure, especially in America innovation has not been powerful as it could have been but with the technology we have in today’s society it can happen with more of an impact on human life our industries don’t understand the correct direction of where we need to head vs where we are heading</p><figure><img alt="" src="https://cdn-images-1.medium.com/max/585/1*1qDt9lKJBQCzkoEx9o4G0Q@2x.jpeg" /></figure><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e571a02bd1ee" width="1" height="1" alt=""> ]]>
+
