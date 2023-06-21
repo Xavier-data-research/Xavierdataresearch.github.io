@@ -35,37 +35,23 @@ layout: home
   
    
   <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html" version="2.0">
-<script>window._wordtune_extension_installed = true;</script> 
 
-
-
-</dc:creator>
 <pubDate>Fri, 16 Jun 2023 15:04:14 GMT</pubDate>
 <atom:updated>2023-06-16T15:04:14.226Z</atom:updated>
 <content:encoded>
-<h3>Ideas are free.</h3><figure><img alt="" src="https://cdn-images-1.medium.com/max/810/1*zT8yZApZsSpMsO_zJor8Mw.jpeg" /></figure><p>I have had a conversation with someone by the name of Gustavo who reminded me in our Instagram dm “You don’t control” So now I am in the present time at 23 feeling immortal while holding on to the mountain top of mixed emotions of how mankind grows, how we serve the individuals on the planet with information—the responsibility of the leader to change the world to shape context on all levels. In America, we fight for speech and the right to have ideas that go against the current trending thought process being programmed repeatedly cuts the leader at his or her kneecaps and forces the programmed thought process. Ideas have been split into social classes putting crabs in a bucket which divides the flow of water in the sea of focus. The people focused on shaping the world are constantly at war as they try to build the architecture of humanity bridges (warfare of ideas) and the crucifixion of free thinkers.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5e5bcbfc2b47" width="1" height="1" alt=""> ]]>
-</content:encoded>
-</item>
-<item>
-<title>
-<![CDATA[ Why doves cry ]]>
-</title>
-<link>https://medium.com/@xaviersingleton22_3667/why-doves-cry-5024161dc6f4?source=rss-5a5b66d9ce3e------2</link>
-<guid isPermaLink="false">https://medium.com/p/5024161dc6f4</guid>
-<dc:creator>
-<![CDATA[ Xavier Data Research ]]>
-</dc:creator>
+<h3> Ideas are free. </h3><figure><img alt="" src="https://cdn-images-1.medium.com/max/810/1*zT8yZApZsSpMsO_zJor8Mw.jpeg" /></figure><p>I have had a conversation with someone by the name of Gustavo who reminded me in our Instagram dm “You don’t control” So now I am in the present time at 23 feeling immortal while holding on to the mountain top of mixed emotions of how mankind grows, how we serve the individuals on the planet with information—the responsibility of the leader to change the world to shape context on all levels. In America, we fight for speech and the right to have ideas that go against the current trending thought process being programmed repeatedly cuts the leader at his or her kneecaps and forces the programmed thought process. Ideas have been split into social classes putting crabs in a bucket which divides the flow of water in the sea of focus. The people focused on shaping the world are constantly at war as they try to build the architecture of humanity bridges (warfare of ideas) and the crucifixion of free thinkers.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5e5bcbfc2b47" width="1" height="1" alt=""> ]]>
+
+
 <pubDate>Sat, 10 Jun 2023 03:33:08 GMT</pubDate>
 <atom:updated>2023-06-10T03:33:08.639Z</atom:updated>
 <content:encoded>
-<![CDATA[ <p>When I am of maturity to ask someone who I care for to spend 100 summers with me and to be my lover. If I am ever upset I must take her to an opera show if I am ever angry I take her to the sea so she remembers how far my love extends. For emotions, I can never express but see in my mind and feel in my bones.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5024161dc6f4" width="1" height="1" alt=""> ]]>
+<h3> Why doves cry </h3> <p>When I am of maturity to ask someone who I care for to spend 100 summers with me and to be my lover. If I am ever upset I must take her to an opera show if I am ever angry I take her to the sea so she remembers how far my love extends. For emotions, I can never express but see in my mind and feel in my bones.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5024161dc6f4" width="1" height="1" alt=""> ]]>
 </content:encoded>
 
-<dc:creator> 
 <pubDate>Fri, 09 Jun 2023 16:35:43 GMT</pubDate>
 <atom:updated>2023-06-09T16:35:43.883Z</atom:updated>
 <content:encoded>
-<h3>  Broke the mental block I had for the past 3 days </h3> <p>My discussion to myself was “trying” to incorporate visual literacy from my writings. I overlooked the complexity I was creating within that thought process.</p><p>The visual representation from the internal visions I had are no longer able to just be brought about in linear ways (traditional) because the story telling is on a topic that requires non-linear thinking because of the “weight” of the artificial intelligence subject matter.</p><p>In that process I found myself wanting to be Phil Jackson and Kobe Bryant which ultimately blocked my own message. Literally a Mutombo to the visions I was seeing</p><p>That’s a frustration, I had unwire the player in me to be the director of my internal orchestra. That Scorsese of those internal visions.</p><p>I move on ideas and how I feel to those ideas and will never allow life to make any excuse for why those ideas and feelings are not acted on.</p><p>This visual language that has fully been forced upon everyone rather they realize it or not has a fine tuned communication it difficult to find those innovations.</p><p>That forces one to want to birth creations from visions. Has to be done in ways that never were done and tested to be sure because the literacy of mankind is on the line because this technology we now use can drastically change the course of human life. So everything has to be high level.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=820dc275bc6e" width="1" height="1" alt=""> ]]>
+<h3>  Broke the mental block I had for the past 3 days </h3> <p>My discussion to myself was “trying” to incorporate visual literacy from my writings. I overlooked the complexity I was creating within that thought process.</p><p>The visual representation from the internal visions I had are no longer able to just be brought about in linear ways (traditional) because the storytelling is on a topic that requires non-linear thinking because of the “weight” of the artificial intelligence subject matter.</p><p>In that process I found myself wanting to be Phil Jackson and Kobe Bryant which ultimately blocked my own message. Literally a Mutombo to the visions I was seeing</p><p>That’s a frustration, I had unwire the player in me to be the director of my internal orchestra. That Scorsese of those internal visions.</p><p>I move on ideas and how I feel to those ideas and will never allow life to make any excuse for why those ideas and feelings are not acted on.</p><p>This visual language that has fully been forced upon everyone rather they realize it or not has a fine tuned communication it difficult to find those innovations.</p><p>That forces one to want to birth creations from visions. Has to be done in ways that never were done and tested to be sure because the literacy of mankind is on the line because this technology we now use can drastically change the course of human life. So everything has to be high level.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=820dc275bc6e" width="1" height="1" alt=""> ]]>
 </content:encoded>
 
 
