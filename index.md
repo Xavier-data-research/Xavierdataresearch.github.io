@@ -26,6 +26,14 @@ layout: home
 <a href="https://twitter.com/stevejobsmydad/"> 
     Twitter
     </a> 
+
+<a href="https://instagram.com/steve_jobsismydad?igshid=MzRlODBiNWFlZA==">
+    Instagram
+    </a>
+
+<a href="https://soundcloud.com/user-132906095">
+    SoundCloud
+    </a>
     
 <a href="mailto:xavierdataresearch@yahoo.com"> 
     email me
