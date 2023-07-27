@@ -23,9 +23,13 @@ layout: home
     Mastodon
     </a>
 
-<a href="https://twitter.com/stevejobsmydad/"> 
+<a href="https://twitter.com/xaviksjpg/"> 
     Twitter
     </a> 
+
+<a href="https://www.threads.net/@xaviks.jpg"> 
+    Threads
+    </a>
 
 <a href="https://instagram.com/steve_jobsismydad?igshid=MzRlODBiNWFlZA==">
     Instagram
@@ -37,6 +41,14 @@ layout: home
     
 <a href="mailto:xavierdataresearch@yahoo.com"> 
     email me
+    </a>
+
+<a href="https://www.grailed.com/Xaviksjpg"> 
+    Grailed
+    </a>
+
+<a href="https://www.depop.com/xaviersingleton"> 
+     Depop
     </a>
     
    
