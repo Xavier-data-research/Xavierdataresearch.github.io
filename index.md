@@ -11,7 +11,7 @@ layout: home
     Xavier Data Research Substack
     </a>
      
-<a href="https://medium.com/@xaviersingleton22_3667"> 
+<a href="Xaviersingleton.medium.com"> 
     Xavier Data Research Medium
     </a>
  
@@ -19,21 +19,13 @@ layout: home
     Xavier Data Research Hashnode
     </a>
  
-<a href="https://mastodon.social/@xavierdataresearch"> 
+<a href="https://me.dm/@xavierdataresearch"> 
     Mastodon
     </a>
 
 <a href="https://twitter.com/xaviksjpg/"> 
     Twitter
     </a> 
-
-<a href="https://www.threads.net/@xaviks.jpg"> 
-    Threads
-    </a>
-
-<a href="https://instagram.com/steve_jobsismydad?igshid=MzRlODBiNWFlZA==">
-    Instagram
-    </a>
     
 <a href="mailto:xavierdataresearch@yahoo.com"> 
     email me
