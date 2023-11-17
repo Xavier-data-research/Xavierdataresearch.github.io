@@ -11,7 +11,7 @@ layout: home
     Xavier Data Research Substack
     </a>
      
-<a href="Xaviersingleton.medium.com"> 
+<a href="https://medium.com/@xaviersingleton"> 
     Xavier Data Research Medium
     </a>
  
