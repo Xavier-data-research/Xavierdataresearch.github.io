@@ -31,6 +31,16 @@ layout: home
     email me
     </a>
 
+  <h1>Love, Pain, and AI</h1><h3>Saturday, 4 December 2023</h3><figure><img alt="" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*82w-HeNzIf7hg-V86JfTcQ.jpeg" /></figure><p>Humans have enslaved humans romantically, materialistically, and technologically. The genetics program of the homo-sapiens has always been a way for natural human biology to say the program is being overridden by death, manipulation, and awareness starvation that occurs when the overall system is being run by inequality. The same systems that are racing to build technology based on the hypocrisy of integrated systems we used for ages proved it could never work just because homo-sapiens believe they do not apply to the laws of nature, we believe we know what is best for all of mankind, animals, and mother earth.</p><p>we race to a world of Digital hypocrisy and elimination of love and pain for diamonds, profit, and gold.
+  
+  
+  <h1>Thoughts on the future of equality with Artificial intelligence</h1>
+    <script>!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src="https://rumble.com/embedJS/u24k1zo"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, "script", "Rumble");</script>
+
+<div id="rumble_v3usdp1"></div>
+<script>
+Rumble("play", {"video":"v3usdp1","div":"rumble_v3usdp1"});</script>
+  
   <h1>Engineering the future understanding separation of Human Culture and AI culture</h1>
    <script>!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src="https://rumble.com/embedJS/u24k1zo"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, "script", "Rumble");</script>
 
