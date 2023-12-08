@@ -31,7 +31,6 @@ layout: home
     email me
     </a>
 
-    <a class="spreaker-player" href="https://www.spreaker.com/episode/57953331" data-resource="episode_id=57953331" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "Thoughts on the future of equality with Artificial intelligence" on Spreaker.</a>
     
   <h1>Love, Pain, and AI</h1><h3>Saturday, 4 December 2023</h3><figure><img alt="" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*82w-HeNzIf7hg-V86JfTcQ.jpeg" /></figure><p>Humans have enslaved humans romantically, materialistically, and technologically. The genetics program of the homo-sapiens has always been a way for natural human biology to say the program is being overridden by death, manipulation, and awareness starvation that occurs when the overall system is being run by inequality. The same systems that are racing to build technology based on the hypocrisy of integrated systems we used for ages proved it could never work just because homo-sapiens believe they do not apply to the laws of nature, we believe we know what is best for all of mankind, animals, and mother earth.</p><p>we race to a world of Digital hypocrisy and elimination of love and pain for diamonds, profit, and gold.
   
