@@ -31,6 +31,7 @@ layout: home
     email me
     </a>
 
+  <iframe src="https://widget.spreaker.com/player?episode_id=57953331&theme=light&playlist=false&playlist-continuous=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
     
   <h1>Love, Pain, and AI</h1><h3>Saturday, 4 December 2023</h3><figure><img alt="" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*82w-HeNzIf7hg-V86JfTcQ.jpeg" /></figure><p>Humans have enslaved humans romantically, materialistically, and technologically. The genetics program of the homo-sapiens has always been a way for natural human biology to say the program is being overridden by death, manipulation, and awareness starvation that occurs when the overall system is being run by inequality. The same systems that are racing to build technology based on the hypocrisy of integrated systems we used for ages proved it could never work just because homo-sapiens believe they do not apply to the laws of nature, we believe we know what is best for all of mankind, animals, and mother earth.</p><p>we race to a world of Digital hypocrisy and elimination of love and pain for diamonds, profit, and gold.
   
