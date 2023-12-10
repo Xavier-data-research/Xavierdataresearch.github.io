@@ -3,6 +3,10 @@ title: Xavier Data Research
 layout: home
 ---
   
+ <figure><img alt="" src="https://pbs.twimg.com/media/GAiaJejXoAAAt3e?format=jpg&name=360x360" /></figure>
+
+
+
 <a href="https://xavierdataresearch.blogspot.com">
     Xavier Data Research Blogspot
     </a>
