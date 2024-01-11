@@ -10,26 +10,32 @@ layout: home
 <a href="https://xavierdataresearch.blogspot.com">
     Xavier Data Research Blogspot
     </a>
+<p>
 
  <a href="https://xavierdataresearch.substack.com"> 
     Xavier Data Research Substack
     </a>
+<p>
      
 <a href="https://medium.com/@xaviersingleton"> 
     Xavier Data Research Medium
     </a>
+<p>
  
  <a href="https://xavier5005.hashnode.dev"> 
     Xavier Data Research Hashnode
     </a>
+<p>
  
 <a href="https://me.dm/@xavierdataresearch"> 
     Mastodon
     </a>
+<p>
 
 <a href="https://twitter.com/xaviksjpg/"> 
     Twitter
     </a> 
+<p>
     
 <a href="mailto:xavierdataresearch@yahoo.com"> 
     email me
