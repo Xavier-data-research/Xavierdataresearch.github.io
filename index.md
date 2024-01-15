@@ -3,7 +3,7 @@ title: Xavier Data Research
 layout: home
 ---
   
-  <p>My name is Xavier Singleton, I was born December 22nd 1999. I think life follows the law of nature and should never think to break the rules nature placed but we do it anyway, I hope for my sister to live a fruitful life in the future and I will forever be indebted to my mother who gave me and my brother the most fruitful present. 
+  <p>My name is Xavier Singleton, I was born on December 22nd, 1999. I think life follows the law of nature and should never think to break the rules nature placed but we do it anyway, I hope for my sister to live a fruitful life in the future and I will forever be indebted to my mother who gave me and my brother the most fruitful present. 
 
 <p>
 
